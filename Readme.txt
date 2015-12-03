@@ -1,0 +1,1 @@
+Follow the instructions in the tutorial and execute the queries
